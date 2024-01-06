@@ -28,15 +28,3 @@
       Proudly created with <a href="https://gprm.itsvg.in" target="_blank">GPRM</a>
     </p>
  </div>
-   <style>
-    .d-flex {
-      display: flex;
-    }
-    .justify-content-center {
-      justify-content: center;
-    }
-    img {
-      width: 100%;
-      height: auto;
-    }
-  </style>
