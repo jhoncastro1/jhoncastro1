@@ -4,8 +4,6 @@
     <p>
       I am a passionate Java developer with a multi-faceted mindset and dedicated to learn and know much more.
     </p>
-
-    <!-- Dashboard Stats Section -->
     <div class="d-flex justify-content-center">
       <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=119435307" target="_blank" style="display: block" align="center">
         <picture>
@@ -34,4 +32,4 @@
       <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
       Proudly created with <a href="https://gprm.itsvg.in" target="_blank">GPRM</a>
     </p>
-  </div>
+
