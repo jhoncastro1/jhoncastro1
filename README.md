@@ -19,10 +19,6 @@
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoncastro1&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
     <hr>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jhoncastro1&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jhoncastro1&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jhoncastro1&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jhoncastro1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -30,16 +26,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=jhoncastro1&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-    <!-- Visit Counter Section -->
-    <a href="https://visitcount.itsvg.in/api?id=jhoncastro1&icon=0&color=0" target="_blank">
-      <img src="https://visitcount.itsvg.in/api?id=jhoncastro1&icon=0&color=0" alt="Visit Count">
-    </a>
-    <p>
-      <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-      Proudly created with <a href="https://gprm.itsvg.in" target="_blank">GPRM</a>
-    </p>
  </div>
