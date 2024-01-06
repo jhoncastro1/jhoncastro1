@@ -12,24 +12,31 @@
         </picture>
       </a>
     </div>
-
-    <!-- GitHub Stats Section -->
     <h2>📊 GitHub Stats:</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=jhoncastro1&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
     <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhoncastro1&theme=gruvbox&hide_border=false" alt="GitHub Streak Stats">
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoncastro1&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-
     <hr>
-
     <!-- Visit Counter Section -->
     <a href="https://visitcount.itsvg.in/api?id=jhoncastro1&icon=0&color=0" target="_blank">
       <img src="https://visitcount.itsvg.in/api?id=jhoncastro1&icon=0&color=0" alt="Visit Count">
     </a>
-
     <p>
       <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
       Proudly created with <a href="https://gprm.itsvg.in" target="_blank">GPRM</a>
     </p>
-
+ </div>
+   <style>
+    .d-flex {
+      display: flex;
+    }
+    .justify-content-center {
+      justify-content: center;
+    }
+    img {
+      width: 100%;
+      height: auto;
+    }
+  </style>
