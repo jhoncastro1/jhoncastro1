@@ -4,6 +4,7 @@
     <p>
       I am a passionate Java developer with a multi-faceted mindset and dedicated to learn and know much more.
     </p>
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
     <div class="d-flex justify-content-center">
       <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=119435307" target="_blank" style="display: block" align="center">
         <picture>
@@ -23,7 +24,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jhoncastro1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
  </div>
