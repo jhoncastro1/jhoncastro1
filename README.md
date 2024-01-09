@@ -4,6 +4,15 @@
   
   <!-- Animated Greeting -->
   <img src="https://media.giphy.com/media/xTiN0L7EW5trfOvEk0/giphy.gif" width="150" height="150">
+  <div align="center">
+  <h2>🐍 GitHub Contribution Snake 🐍</h2>
+
+  <marquee direction="right" scrollamount="5">
+    <img src="https://github.com/jhoncastro1/jhoncastro1/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+  </marquee>
+  
+  <p>Watch me slither through my GitHub contributions!</p>
+</div>
 
   <!-- GitHub Stats Section -->
   <h2>📊 GitHub Stats:</h2>
