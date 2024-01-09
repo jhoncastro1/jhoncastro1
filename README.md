@@ -11,8 +11,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
   </picture>
-  
-  <p>Watch the snake crawl through my GitHub contributions!</p>
 </div>
 
   <!-- GitHub Stats Section -->
