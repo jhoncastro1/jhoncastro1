@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jhon Edwin Castro Gaspar</h1>
 <h3 align="center">I am a passionate Java developer with a multi-faceted mindset and dedicated to learn and know much more.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhoncastro1" alt="jhoncastro1" /></a> </p>
+ <h2>📊 GitHub Stats:</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=jhoncastro1&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+    <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhoncastro1&theme=gruvbox&hide_border=false" alt="GitHub Streak Stats">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoncastro1&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+    <hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
