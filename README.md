@@ -10,6 +10,9 @@
         </picture>
       </a>
     </div>
+  <div style="text-align: center;">
+  <img src="https://media.giphy.com/media/dyNwoRlu7eDqk/giphy.gif" alt="Java Animation" width="300"/>
+</div>
     <h2>📊 GitHub Stats:</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=jhoncastro1&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
     <br>
