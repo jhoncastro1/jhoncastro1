@@ -1,9 +1,7 @@
  <div>
     <!-- About Me Section -->
-    <h2>💫 About Me:</h2>
-    <p>
-      I am a passionate Java developer with a multi-faceted mindset and dedicated to learn and know much more.
-    </p>
+   <h1 align="center">Hi 👋, I'm Jhon Edwin Castro Gaspar</h1>
+<h3 align="center">I am a passionate Java developer with a multi-faceted mindset and dedicated to learn and know much more.</h3>
     <div class="d-flex justify-content-center">
       <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=119435307" target="_blank" style="display: block" align="center">
         <picture>
