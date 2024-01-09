@@ -9,6 +9,7 @@
           <img alt="Dashboard stats of @jhoncastro1" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=119435307&image_size=auto&color_scheme=light" width="771" height="auto">
         </picture>
       </a>
+     https://github-stats-alpha.vercel.app/api?username={jhoncastro1}
     </div>
     <h2>📊 GitHub Stats:</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=jhoncastro1&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
