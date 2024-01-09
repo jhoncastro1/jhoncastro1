@@ -3,7 +3,7 @@
   <h3>Passionate Java Developer | Continuous Learner</h3>
   
 <div align="center">
-  <h2>🐍 GitHub Contribution Snake 🐍</h2>
+  <h2>GitHub Contribution</h2>
 
   <!-- Picture Tag for Theme Support -->
   <picture>
@@ -30,6 +30,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoncastro1&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 
   <hr>
+  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=119435307" target="_blank" style="display: block" align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=119435307&image_size=auto&color_scheme=dark" width="771" height="auto">
+          <img alt="Dashboard stats of @jhoncastro1" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=119435307&image_size=auto&color_scheme=light" width="771" height="auto">
+        </picture>
+      </a>
 
   <!-- GitHub Trophies -->
   <h2>🏆 GitHub Trophies</h2>
