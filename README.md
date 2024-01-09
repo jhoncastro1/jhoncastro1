@@ -2,8 +2,18 @@
   <h1>👋 Hi, I'm Jhon Edwin Castro Gaspar</h1>
   <h3>Passionate Java Developer | Continuous Learner</h3>
   
-  <!-- Animated Greeting -->
-  <img src="https://media.giphy.com/media/xTiN0L7EW5trfOvEk0/giphy.gif" width="150" height="150">
+<div align="center">
+  <h2>🐍 GitHub Contribution Snake 🐍</h2>
+
+  <!-- Picture Tag for Theme Support -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  </picture>
+  
+  <p>Watch the snake crawl through my GitHub contributions!</p>
+</div>
 
   <!-- GitHub Stats Section -->
   <h2>📊 GitHub Stats:</h2>
