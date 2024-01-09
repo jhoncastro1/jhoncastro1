@@ -3,8 +3,6 @@
   <h3>Passionate Java Developer | Continuous Learner</h3>
   
 <div align="center">
-  <h2>GitHub Contribution</h2>
-
   <!-- Picture Tag for Theme Support -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
